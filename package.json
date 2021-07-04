@@ -1,0 +1,22 @@
+{
+  "name": "courier",
+  "version": "1.0.0",
+  "description": "Re-do of the safe courier API ",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.0",
+    "nodemon": "^2.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cynthia",
+  "license": "ISC"
+}
